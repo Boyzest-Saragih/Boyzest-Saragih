@@ -38,6 +38,6 @@
 
 ---
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+GitHub!;I+am+a+Fullstack+Developer;I+love+coding+and+AI!)  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+GitHub!;I+am+a+Fullstack+Developer;I+love+coding+and+AI!;Tapi+boong)  
 
 > *"Talk is cheap. Show me the code."* - Linus Torvalds  
