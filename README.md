@@ -19,7 +19,7 @@
 ---
 
 ## 🚀 Current Projects  
-- 🔗 [**Taskify (MERN)**](https://github.com/Boyzest-Saragih/Taskify)  
+- 🔗 [**Trade Journal (Flutter)**](https://github.com/Boyzest-Saragih/tradeJournalApp)  
 
 ---
 
