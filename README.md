@@ -19,7 +19,8 @@
 ---
 
 ## 🚀 Current Projects  
-- 🔗 [**Kelompok Budiono Kapal Lawd (Flutter)**](https://github.com/RahmadFadhil8/Kelompok-Budiono-no_poverty.git)  
+- 🔗 [**Financial Manager (Flutter)**](https://github.com/Boyzest-Saragih/financialManager.git)
+- 🔗 [**Kelompok Budiono Kapal Lawd (Flutter)**](https://github.com/RahmadFadhil8/Kelompok-Budiono-no_poverty.git)
 
 ---
 
