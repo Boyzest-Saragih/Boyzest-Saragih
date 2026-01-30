@@ -2,8 +2,6 @@
 🚀 **Allstuck Developer**  
 
 ## 💡 About Me  
-- 🔭 Currently working on **MERN Stack & AI Projects**  
-- 🌱 Learning **WebSockets, Redux, and Computer Vision**  
 - 📫 Reach me at **boyzestsumbayak@gmail.com**  
 
 ---
