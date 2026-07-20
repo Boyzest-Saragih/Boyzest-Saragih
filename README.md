@@ -22,12 +22,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-![Boyzest's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Boyzest-Saragih&show_icons=true&theme=tokyonight)  
-![GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Boyzest-Saragih&theme=github_dark)  
-
----
-
 ## 🌍 Let's Connect!  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/enjel-boyzest-saragih-506a68293/)  
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/boyzest.sr/)  
