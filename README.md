@@ -26,7 +26,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/enjel-boyzest-saragih-506a68293/)  
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/boyzest.sr/)  
 
-🌐 **Portfolio Website:** [boyzest.dev](https://boyzest.dev)  
+🌐 **Portfolio Website:** [boyzest](https://boyzest.dev)  
 
 ---
 
